@@ -1,0 +1,6 @@
+c:\users\trevor\source\repos\PEp3\PEp3\bin\Debug\PEp3.exe.config
+c:\users\trevor\source\repos\PEp3\PEp3\bin\Debug\PEp3.exe
+c:\users\trevor\source\repos\PEp3\PEp3\bin\Debug\PEp3.pdb
+c:\users\trevor\source\repos\PEp3\PEp3\obj\Debug\PEp3.csproj.CoreCompileInputs.cache
+c:\users\trevor\source\repos\PEp3\PEp3\obj\Debug\PEp3.exe
+c:\users\trevor\source\repos\PEp3\PEp3\obj\Debug\PEp3.pdb

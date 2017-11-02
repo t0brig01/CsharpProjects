@@ -1,0 +1,7 @@
+C:\Users\Trevor\source\repos\PEp2\PEp2\bin\Debug\PEp2.exe.config
+C:\Users\Trevor\source\repos\PEp2\PEp2\bin\Debug\PEp2.exe
+C:\Users\Trevor\source\repos\PEp2\PEp2\bin\Debug\PEp2.pdb
+C:\Users\Trevor\source\repos\PEp2\PEp2\obj\Debug\PEp2.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp2\PEp2\obj\Debug\PEp2.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp2\PEp2\obj\Debug\PEp2.exe
+C:\Users\Trevor\source\repos\PEp2\PEp2\obj\Debug\PEp2.pdb

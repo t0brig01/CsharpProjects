@@ -1,0 +1,14 @@
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Trevor\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Trevor\source\repos\PEp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
