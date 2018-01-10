@@ -1,0 +1,11 @@
+C:\Users\Trevor\source\repos\PEp8\PEp8\bin\Debug\netcoreapp2.0\PEp8.deps.json
+C:\Users\Trevor\source\repos\PEp8\PEp8\bin\Debug\netcoreapp2.0\PEp8.runtimeconfig.json
+C:\Users\Trevor\source\repos\PEp8\PEp8\bin\Debug\netcoreapp2.0\PEp8.runtimeconfig.dev.json
+C:\Users\Trevor\source\repos\PEp8\PEp8\bin\Debug\netcoreapp2.0\PEp8.dll
+C:\Users\Trevor\source\repos\PEp8\PEp8\bin\Debug\netcoreapp2.0\PEp8.pdb
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.AssemblyInfoInputs.cache
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.AssemblyInfo.cs
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.dll
+C:\Users\Trevor\source\repos\PEp8\PEp8\obj\Debug\netcoreapp2.0\PEp8.pdb

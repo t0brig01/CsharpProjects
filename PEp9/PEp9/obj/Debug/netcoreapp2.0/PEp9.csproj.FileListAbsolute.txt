@@ -1,0 +1,11 @@
+C:\Users\Trevor\source\repos\PEp9\PEp9\bin\Debug\netcoreapp2.0\PEp9.deps.json
+C:\Users\Trevor\source\repos\PEp9\PEp9\bin\Debug\netcoreapp2.0\PEp9.runtimeconfig.json
+C:\Users\Trevor\source\repos\PEp9\PEp9\bin\Debug\netcoreapp2.0\PEp9.runtimeconfig.dev.json
+C:\Users\Trevor\source\repos\PEp9\PEp9\bin\Debug\netcoreapp2.0\PEp9.dll
+C:\Users\Trevor\source\repos\PEp9\PEp9\bin\Debug\netcoreapp2.0\PEp9.pdb
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.AssemblyInfoInputs.cache
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.AssemblyInfo.cs
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.dll
+C:\Users\Trevor\source\repos\PEp9\PEp9\obj\Debug\netcoreapp2.0\PEp9.pdb

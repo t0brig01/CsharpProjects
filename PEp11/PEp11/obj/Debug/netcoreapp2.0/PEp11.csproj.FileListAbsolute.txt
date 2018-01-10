@@ -1,0 +1,11 @@
+c:\users\trevor\source\repos\PEp11\PEp11\bin\Debug\netcoreapp2.0\PEp11.deps.json
+c:\users\trevor\source\repos\PEp11\PEp11\bin\Debug\netcoreapp2.0\PEp11.runtimeconfig.json
+c:\users\trevor\source\repos\PEp11\PEp11\bin\Debug\netcoreapp2.0\PEp11.runtimeconfig.dev.json
+c:\users\trevor\source\repos\PEp11\PEp11\bin\Debug\netcoreapp2.0\PEp11.dll
+c:\users\trevor\source\repos\PEp11\PEp11\bin\Debug\netcoreapp2.0\PEp11.pdb
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.csprojResolveAssemblyReference.cache
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.csproj.CoreCompileInputs.cache
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.AssemblyInfoInputs.cache
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.AssemblyInfo.cs
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.dll
+c:\users\trevor\source\repos\PEp11\PEp11\obj\Debug\netcoreapp2.0\PEp11.pdb

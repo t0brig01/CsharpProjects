@@ -1,0 +1,11 @@
+C:\Users\Trevor\source\repos\PEp6\PEp6\bin\Debug\netcoreapp2.0\PEp6.deps.json
+C:\Users\Trevor\source\repos\PEp6\PEp6\bin\Debug\netcoreapp2.0\PEp6.runtimeconfig.json
+C:\Users\Trevor\source\repos\PEp6\PEp6\bin\Debug\netcoreapp2.0\PEp6.runtimeconfig.dev.json
+C:\Users\Trevor\source\repos\PEp6\PEp6\bin\Debug\netcoreapp2.0\PEp6.dll
+C:\Users\Trevor\source\repos\PEp6\PEp6\bin\Debug\netcoreapp2.0\PEp6.pdb
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.AssemblyInfoInputs.cache
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.AssemblyInfo.cs
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.dll
+C:\Users\Trevor\source\repos\PEp6\PEp6\obj\Debug\netcoreapp2.0\PEp6.pdb

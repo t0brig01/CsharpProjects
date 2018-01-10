@@ -1,0 +1,11 @@
+C:\Users\Trevor\source\repos\PEp13\PEp13\bin\Debug\netcoreapp2.0\PEp13.deps.json
+C:\Users\Trevor\source\repos\PEp13\PEp13\bin\Debug\netcoreapp2.0\PEp13.runtimeconfig.json
+C:\Users\Trevor\source\repos\PEp13\PEp13\bin\Debug\netcoreapp2.0\PEp13.runtimeconfig.dev.json
+C:\Users\Trevor\source\repos\PEp13\PEp13\bin\Debug\netcoreapp2.0\PEp13.dll
+C:\Users\Trevor\source\repos\PEp13\PEp13\bin\Debug\netcoreapp2.0\PEp13.pdb
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.AssemblyInfoInputs.cache
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.AssemblyInfo.cs
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.dll
+C:\Users\Trevor\source\repos\PEp13\PEp13\obj\Debug\netcoreapp2.0\PEp13.pdb
